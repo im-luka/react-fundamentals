@@ -2,7 +2,7 @@
   <h1 align="center"><a href="https://epicreact.dev/fundamentals">React Fundamentals 🚀 EpicReact.Dev</a></h1>
   <strong>
     Learn the foundational concepts necessary for building
-    React applications and libraries
+    React applications and libraries ⭐️
   </strong>
   <p>
     Learn everything you need to be effective with the fundamental building
